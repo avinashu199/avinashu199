@@ -27,7 +27,7 @@
 
 💼 **8 Years as QA**
 
-🔭 Currently Looking for Test Automation ROles
+🔭 Currently Looking for Test Automation Roles
 
 🌱 Currently learning **AI Agents,Playwright**
 

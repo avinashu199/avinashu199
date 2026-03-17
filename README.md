@@ -10,14 +10,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E4BF7A&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Automation%20wizard.Python%20craftsman.Selenium%20user.API%20admirer." alt="Typing SVG" />
 </a>
 
-<!-- PROFILE BADGES -->
-<p>
-  <img src="https://img.shields.io/badge/Focus-Senior-e4bf7a?style=for-the-badge" alt="focus"/>
-  <img src="https://img.shields.io/badge/6+_Years-On_GitHub-e4bf7a?style=for-the-badge" alt="years"/>
-  
-  <img src="https://komarev.com/ghpvc/?username=avinashu199&style=for-the-badge&color=e4bf7a" alt="views"/>
-</p>
-
 <!-- SOCIAL LINKS -->
 <p>
 <a href="https://www.linkedin.com/in/avinashuppalapati/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:avinashu199@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> 

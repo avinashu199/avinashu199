@@ -27,7 +27,7 @@
 
 💼 **8 Years as QA**
 
-🔭 Currently working on **[AbhiBus-Test-Automation](https://github.com/avinashu199/AbhiBus-Test-Automation)**
+🔭 Currently Looking for Test Automation ROles
 
 🌱 Currently learning **AI Agents,Playwright**
 

@@ -25,7 +25,7 @@
 
 
 
-💼 **8**
+💼 **8 Years as QA**
 
 🔭 Currently working on **[AbhiBus-Test-Automation](https://github.com/avinashu199/AbhiBus-Test-Automation)**
 
